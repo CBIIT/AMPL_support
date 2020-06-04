@@ -34,7 +34,3 @@ From DrugBank one can access COVID-19 related drugs, drug-targts, clinical-trial
 UniProt database link, 
 [https://covid-19.uniprot.org/uniprotkb?query=*](https://covid-19.uniprot.org/uniprotkb?query=*)
 
-
-## List
-* [www.ncbi.nlm.nih.gov]
-* [www.ncbi.nlm.nih.gov]
