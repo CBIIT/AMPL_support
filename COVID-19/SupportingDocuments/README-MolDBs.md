@@ -1,11 +1,11 @@
-### Genomic Information
+## Genomic Information
 
 **NCBI: In addition to NCBI, you can also access CDC and NIH links**
 
 [https://www.ncbi.nlm.nih.gov/sars-cov-2/](https://www.ncbi.nlm.nih.gov/sars-cov-2/)
 
 
-__Ensembl__
+**Ensembl**
 
 [https://covid-19.ensembl.org/index.html](https://covid-19.ensembl.org/index.html)
 
@@ -14,7 +14,7 @@ __Ensembl__
 [https://genome.ucsc.edu/covid19.html](https://genome.ucsc.edu/covid19.html)
 
 
-### Small-molecule compounds: 
+## Small-molecule compounds: 
 
 **Compounds identified by PubChem**
 
@@ -27,7 +27,7 @@ From DrugBank one can access COVID-19 related drugs, drug-targts, clinical-trial
 [https://www.drugbank.ca/covid-19](https://www.drugbank.ca/covid-19)
 
 
-### Protein molecule information:
+## Protein molecule information:
 
 **Proteins associated with COVID-19**
 
