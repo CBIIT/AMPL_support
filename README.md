@@ -1,1 +1,3 @@
-# AMPL_support
+# AMPL Support 
+
+ATOM/AMPL related applications support
