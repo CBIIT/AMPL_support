@@ -47,8 +47,10 @@ UniProt database link,
 * Protein 7a 
         * https://www.uniprot.org/uniprot/P0DTC7 
 * Nsp15 (endoribonuclease)
-* Main Protease  or Mpro 
-* RNA-dependent RNA Polymerase
+* Main Protease  or Mpro  or 3CL-pro or nsp5
+* RNA-dependent RNA Polymerase or RdRp or nsp12
 * Nsp8 
+
+
 
 
