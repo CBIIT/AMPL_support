@@ -1,4 +1,6 @@
-## Genomic Information
+## General Summary 
+
+### Genomic Information
 
 **NCBI: In addition to NCBI, you can also access CDC and NIH links**
 
