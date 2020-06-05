@@ -34,3 +34,19 @@ From DrugBank one can access COVID-19 related drugs, drug-targts, clinical-trial
 UniProt database link, 
 [https://covid-19.uniprot.org/uniprotkb?query=*](https://covid-19.uniprot.org/uniprotkb?query=*)
 
+
+## What protein 3D experimental structures are available? 
+
+* Spike Glycoprotein
+	* https://www.ebi.ac.uk/pdbe/pdbe-kb/covid19/P0DTC2
+
+* Nucleoprotein (N protein)
+        * https://www.uniprot.org/uniprot/P0DTC9 
+* Protein 7a 
+        * https://www.uniprot.org/uniprot/P0DTC7 
+* Nsp15 (endoribonuclease)
+* Main Protease  or Mpro 
+* RNA-dependent RNA Polymerase
+* Nsp8 
+
+
