@@ -1,5 +1,9 @@
 ## Information for the supporting files:
 
+
+#### A list of Small molecule inhibitors/disruptors (ongoing effort) 
+* The list is collected from COVID-19 related publications that appeared after Mar 01 2020. Please note that the same compound could appear multiple times and in some cases even have different mechanisms of action. 
+
 #### Datasets and modeling software used for COVID-19 research
 * COVID-19-CommonDatasetsSoftwareForModeling-06052020.docx
 * COVID-19-CommonDatasetsSoftwareForModeling-06052020.pdf
