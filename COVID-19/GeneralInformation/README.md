@@ -23,10 +23,12 @@
 You can access COVID-19 related substances, compounds, genes, proteins, pathways, bioassays and literature from the following link,
 [https://pubchem.ncbi.nlm.nih.gov/#query=covid-19](https://pubchem.ncbi.nlm.nih.gov/#query=covid-19)
 
-**Compounds identified by DrugBank**
+**COVID-19 related information from DrugBank**
 
 From DrugBank one can access COVID-19 related drugs, drug-targts, clinical-trials and publications. Here is the DrugBank link,
 [https://www.drugbank.ca/covid-19](https://www.drugbank.ca/covid-19)
+
+As of 06/06/2020, there are 28 Drugs, 53 drug-targets, 1041 clinical trials and 54 publications. 
 
 
 ## Protein molecule information:
