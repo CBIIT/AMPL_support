@@ -8,7 +8,7 @@ and upload the new files or let us know (Naomi or Ravi).
 The database has ~ 250 compounds and we are updating the database once 
 every week. 
 
-Click <a href="COVID19-inhibitors-disruptors.pdf" class="image fit"> here </a> to download a copy of the the Jupyter Notebook in pdf format. 
+<a href="COVID19-inhibitors-disruptors.pdf" class="image fit"> Right-click </a> to download a copy of the the Jupyter Notebook in pdf format. Feel free to clone the repository and run the Jupyter notebook in your computer. 
 
 ravichandrans@mail.nih.gov
 naomi.ohashi@nih.gov
