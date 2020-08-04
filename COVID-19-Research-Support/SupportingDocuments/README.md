@@ -22,8 +22,8 @@
 * COVID-19-SmallMoleculeResearchArticles.pdf
 
 #### COVID-19 Structure-focussed research
-* COVID-19-StructureBasedModeling08042020.docx	
-* COVID-19-StructureBasedModeling08042020.pdf
+* COVID-19-StructureBasedModeling.docx	
+* COVID-19-StructureBasedModeling.pdf
 
 #### COVID-19 Drug development trends
 * COVID-19DrugDevelopmentTrends.docx	
